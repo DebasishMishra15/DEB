@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[execution will be starting]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24391" started-at="2020-06-15T16:26:56Z" finished-at="2020-06-15T16:27:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24391" started-at="2020-06-15T16:26:56Z" finished-at="2020-06-15T16:27:20Z">
+      <class name="test.testActitimeLogin">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:test.testActitimeLogin@cb5822]" name="openBrowser" is-config="true" duration-ms="23052" started-at="2020-06-15T16:26:56Z" finished-at="2020-06-15T16:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="startexecution()[pri:0, instance:test.testActitimeLogin@cb5822]" name="startexecution" is-config="true" duration-ms="0" started-at="2020-06-15T16:27:19Z" finished-at="2020-06-15T16:27:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[execution will be starting]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startexecution -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test.testActitimeLogin@cb5822]" name="login" duration-ms="1312" started-at="2020-06-15T16:27:19Z" finished-at="2020-06-15T16:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.testActitimeLogin@cb5822]" name="closebrowser" is-config="true" duration-ms="0" started-at="2020-06-15T16:27:20Z" finished-at="2020-06-15T16:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.testActitimeLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
